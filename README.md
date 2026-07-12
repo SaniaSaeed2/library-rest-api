@@ -28,7 +28,7 @@ This API manages a small library system with two resources — **books** and **m
 **Prerequisites:** Node.js v16 or higher
 
 ```bash
-git clone https://github.com/<SaniaSaeed2>/library-rest-api.git
+git clone https://github.com/SaniaSaeed2/library-rest-api.git
 cd library-rest-api
 npm install
 node index.js
