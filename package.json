@@ -1,0 +1,23 @@
+{
+  "name": "library-rest-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A stateless REST API built with Node.js and Express for DecodeLabs Backend Development Project 1 (REST API Fundamentals).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "backend",
+    "decodelabs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2",
+    "nodemon": "^3.1.14"
+  }
+}
